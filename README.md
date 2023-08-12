@@ -73,4 +73,8 @@ Rails
 CSS
 JavaScript
 Vue
+
 PWA
+
+## 画面遷移図
+https://www.figma.com/file/MBixaELpQCFMNE9miAMYdo/%E7%84%A1%E9%A1%8C?type=design&node-id=0-1&mode=design&t=dSLGKeKk2xA8iqMA-0
