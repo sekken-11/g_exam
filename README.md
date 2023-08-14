@@ -78,3 +78,6 @@ PWA
 
 ## 画面遷移図
 https://www.figma.com/file/MBixaELpQCFMNE9miAMYdo/%E7%84%A1%E9%A1%8C?type=design&node-id=0-1&mode=design&t=dSLGKeKk2xA8iqMA-0
+
+## ER図
+https://drive.google.com/file/d/1OCJS9h5KtpgaydJylMyYFWSc1DfbOARk/view?usp=sharing
